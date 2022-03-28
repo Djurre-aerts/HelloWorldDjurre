@@ -10,7 +10,7 @@ namespace HelloWorldDjurre
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello Djurre");
+            Console.WriteLine("homo wouter");
             Console.ReadLine();
         }
     }
